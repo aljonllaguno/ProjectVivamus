@@ -1,0 +1,36 @@
+body {
+  header{
+    background-color: #2DA8C9;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 30px;
+   img{
+     height: 120px;
+     width: 160px;
+     margin-left: 150px;
+   }
+  }
+  section{
+    text-align: center;
+    font-family: Arial;
+    color: #2DA8C9;
+    .p1 {
+      font-size: 40px;
+      font-weight: Bold;
+      margin-bottom: 20px;
+    }
+    .p2 {
+
+      font-size: 20px;
+    }
+  }
+  fieldset{
+    margin: auto;
+  }
+  footer{
+    margin-top: 200px;
+    background-color: #BFBFBF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+}
