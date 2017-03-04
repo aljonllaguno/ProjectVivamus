@@ -24,8 +24,13 @@ body {
       font-size: 20px;
     }
   }
-  fieldset{
-    margin: auto;
+  form{
+      h1 {
+        color: #2DA8C9 !important;
+        font-size: 40px !important;
+        font-weight: Bold !important;
+        margin-bottom: 20px !important;
+      }
   }
   footer{
     margin-top: 200px;
